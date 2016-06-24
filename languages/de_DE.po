@@ -1,0 +1,887 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Miga 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-04-10 15:47+0200\n"
+"PO-Revision-Date: 2016-05-24 10:41+0200\n"
+"Last-Translator: Danijel Rose\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ _s
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuchen Sie es mal mit den monatlichen Archiven. %1$s"
+
+# @ _s
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+# @ _s
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+# @ _s
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:48
+msgid "Secondary Menu"
+msgstr "Sekundäres Menü"
+
+#: functions.php:114
+msgid "Sections"
+msgstr "Sektionen"
+
+#: functions.php:115
+msgid "Section"
+msgstr "Sektion"
+
+#: functions.php:127 functions.php:128 inc/customizer.php:132
+#: inc/customizer.php:1297
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: functions.php:140 inc/customizer.php:131 inc/customizer.php:1296
+msgid "Testimonials"
+msgstr "Bewertungen"
+
+#: functions.php:141
+msgid "Testimonial"
+msgstr "Bewertung"
+
+#: functions.php:152 inc/customizer.php:133 inc/customizer.php:1298
+msgid "Pricing Tables"
+msgstr "Preistabellen"
+
+#: functions.php:153
+msgid "Pricing Table"
+msgstr "Preistabelle"
+
+#: functions.php:169
+msgid "Display Locations"
+msgstr "Display Orte"
+
+#: functions.php:170
+msgid "Display Location"
+msgstr "Display Ort"
+
+#: functions.php:171
+msgid "Add New Display Location"
+msgstr "Neuen Display Ort hinzufügen"
+
+#: functions.php:172
+msgid "Edit Display Location"
+msgstr "Display Ort bearbeiten"
+
+#: functions.php:173
+msgid "Update Display Location"
+msgstr "Update Display Ort"
+
+#: functions.php:182
+msgid "Portfolio Categories"
+msgstr "Portfolio Kategorien"
+
+#: functions.php:183
+msgid "Portfolio Category"
+msgstr "Portfolio Kategorie "
+
+#: functions.php:184
+msgid "Add New Portfolio Category"
+msgstr "Portfolio Kategorie hinzufügen"
+
+#: functions.php:185
+msgid "Edit Portfolio Category"
+msgstr "Portfolio Kategorie bearbeiten"
+
+#: functions.php:186
+msgid "Update Portfolio Category"
+msgstr "Update Portfolio Kategorie"
+
+#: functions.php:232
+msgid "Price"
+msgstr "Preis"
+
+# @ _s
+#: functions.php:300
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:311 functions.php:388
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: functions.php:321
+msgid "1. Above Header Widget Area"
+msgstr "1. Über dem Header Widget Bereich"
+
+#: functions.php:323
+msgid "The first header widget area"
+msgstr "Erster Header Widget Bereich"
+
+#: functions.php:332
+msgid "2. Above Header Widget Area"
+msgstr "2. Über dem Header Widget Bereich"
+
+#: functions.php:334
+msgid "The second header widget area"
+msgstr "Zweiter Header Widget Bereich"
+
+#: functions.php:343
+msgid "3. Above Header Widget Area"
+msgstr "3. Über dem Header Widget Bereich"
+
+#: functions.php:345
+msgid "The third header widget area"
+msgstr "Dritter Header Widget Bereich"
+
+#: functions.php:355
+msgid "1. Footer Widget Area"
+msgstr "1. Footer Widget Bereich"
+
+#: functions.php:357
+msgid "The first footer widget area"
+msgstr "Erster Footer Widget Bereich"
+
+#: functions.php:366
+msgid "2. Footer Widget Area"
+msgstr "2. Footer Widget Bereich"
+
+#: functions.php:368
+msgid "The second footer widget area"
+msgstr "Zweiter Footer Widget Bereich"
+
+#: functions.php:377
+msgid "3. Footer Widget Area"
+msgstr "3. Footer Widget Bereich"
+
+#: functions.php:379
+msgid "The third footer widget area"
+msgstr "Dritter Footer Widget Bereich"
+
+#: functions.php:520
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: inc/custom-widgets.php:28
+msgid "Newsletter Widget"
+msgstr "Newsletter Widget"
+
+#: inc/custom-widgets.php:29
+msgid "A simple newsletter widget to stay in touch with your target audience."
+msgstr ""
+"Einfacher Newsletter Widget, um mit der Zielgruppe in Verbindung zu bleiben"
+
+#: inc/custom-widgets.php:76 inc/customizer.php:1309
+msgid "Sign up for more news"
+msgstr "Für mehr News bitte anmelden"
+
+#: inc/custom-widgets.php:78
+msgid "You have a new subscriber"
+msgstr "Du hast einen neuen Newsletter-Abonnenten"
+
+#: inc/customizer.php:126 inc/customizer.php:1291
+msgid "Recent Posts"
+msgstr "Neueste Beiträge"
+
+#: inc/customizer.php:127 inc/customizer.php:1292
+msgid "Random Posts"
+msgstr "Beliebige Beiträge"
+
+#: inc/customizer.php:128 inc/customizer.php:1293
+msgid "Posts by Category"
+msgstr "Beiträge nach Kategorie"
+
+#: inc/customizer.php:129 inc/customizer.php:1294
+msgid "Popular Posts (views)"
+msgstr "Beliebte Beiträge (Aufrufe)"
+
+#: inc/customizer.php:130 inc/customizer.php:1295
+msgid "Popular Posts (comments)"
+msgstr "Beliebte Beiträge (Kommentare)"
+
+#: inc/customizer.php:134 inc/customizer.php:1299
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/customizer.php:135 inc/customizer.php:1300
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/customizer.php:136 inc/customizer.php:1301
+msgid "My custom section"
+msgstr "Benutzerdefinierte Sektion"
+
+#: inc/customizer.php:148 inc/customizer.php:1398
+msgid "Flipcards"
+msgstr "Flipcards"
+
+#: inc/customizer.php:149 inc/customizer.php:1399
+msgid "Cards Decks"
+msgstr "Cards"
+
+#: inc/customizer.php:150 inc/customizer.php:1400
+msgid "Cards Overlay"
+msgstr "Cards Overlay"
+
+#: inc/customizer.php:151 inc/customizer.php:1401
+msgid "Mansory"
+msgstr "Mansory (Pinterest Style)"
+
+#: inc/customizer.php:152 inc/customizer.php:1402
+msgid "Timeline"
+msgstr "Timeline"
+
+#: inc/customizer.php:153 inc/customizer.php:1403
+msgid "Filtered Gallery"
+msgstr "Gefilterte Galerie "
+
+#: inc/customizer.php:154 inc/customizer.php:1404
+msgid "Tabs"
+msgstr "Tabs"
+
+#: inc/customizer.php:155 inc/customizer.php:1405
+msgid "Carousel"
+msgstr "Karussell "
+
+#: inc/customizer.php:166 inc/customizer.php:1526
+msgid "1 column"
+msgstr "Einspaltig"
+
+#: inc/customizer.php:167 inc/customizer.php:1527
+msgid "2 columns"
+msgstr "Zweispaltig"
+
+#: inc/customizer.php:168 inc/customizer.php:1528
+msgid "3 columns"
+msgstr "Dreispaltig"
+
+#: inc/customizer.php:254
+msgid "None"
+msgstr "Kein"
+
+#: inc/customizer.php:314
+msgid "General Site Settings"
+msgstr "Allgemeine Website Einstellungen"
+
+#: inc/customizer.php:315
+msgid "Select general settings for your website"
+msgstr "Hier kannst du allgemeine Einstellungen für deine Website vornehmen."
+
+#: inc/customizer.php:321
+msgid "Site Logo"
+msgstr "Website Logo"
+
+#: inc/customizer.php:322
+msgid "Upload a logo to your website."
+msgstr "Hier kannst du dein Logo hochladen."
+
+#: inc/customizer.php:330
+msgid "Site Layout"
+msgstr "Website Layout"
+
+#: inc/customizer.php:339
+msgid "With or without Sidebar"
+msgstr "Mit oder ohne Sidebar"
+
+#: inc/customizer.php:340 inc/customizer.php:356
+msgid ""
+"Choose the layout for the content area on your site. It is not affecting the "
+"header nor the footer."
+msgstr ""
+"Hier kannst du das Layout für den Inhaltsbereich deiner Website festlegen. "
+"Es wirkt sich weder auf den Header noch auf den Footer aus."
+
+#: inc/customizer.php:355
+msgid "Box or Fullwidth Layout"
+msgstr "Box oder Volle Breite Layout"
+
+#: inc/customizer.php:370
+msgid "Section Padding"
+msgstr "Sektion Rand"
+
+#: inc/customizer.php:399
+msgid "Fonts"
+msgstr "Schriftarten"
+
+#: inc/customizer.php:408
+msgid "Font Family Headlines"
+msgstr "Schriftart Überschrift"
+
+#: inc/customizer.php:426
+msgid "Font Family Text"
+msgstr "Schriftart Text"
+
+#: inc/customizer.php:444
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: inc/customizer.php:445
+msgid "Choose the text size for your content."
+msgstr "Wähle die Schriftgröße für den Text."
+
+#: inc/customizer.php:470
+msgid "Primary Color"
+msgstr "Hauptfarbe"
+
+#: inc/customizer.php:471
+msgid ""
+"The primary color will affect the background color for the cards, single "
+"posts, widgets, navbar etc."
+msgstr ""
+"Die Hauptfarbe wirkt sich aus auf die Hintergrundfarbe der Cards, "
+"Einzelbeiträge, Widgets, Navigation etc."
+
+#: inc/customizer.php:494
+msgid "Call to Action Color"
+msgstr "Farbe für einen Handlungsaufruf"
+
+#: inc/customizer.php:495
+msgid ""
+"Choose the color for your call to action elements like buttons, input "
+"fields, links etc."
+msgstr ""
+"Mit dieser Einstellung legst du die Farbe fest für Buttons, Eingabefelder, "
+"Links etc."
+
+#: inc/customizer.php:523 inc/customizer.php:1191
+msgid "Section Title Color"
+msgstr "Sektion Überschrift Farbe"
+
+#: inc/customizer.php:524
+msgid ""
+"You can override the section title color in the settings of each section."
+msgstr ""
+"Solltest du in einer Sektion eine andere Farbe für die Überschrift wünschen, "
+"kannst du diese in der jeweiligen Sektion überschreiben."
+
+#: inc/customizer.php:543 inc/customizer.php:1214
+msgid "Post Title Color"
+msgstr "Beitragstitel"
+
+#: inc/customizer.php:544
+msgid "You can override the post title color in the settings of each section."
+msgstr ""
+"Solltest du in einer Sektion eine andere Farbe für die Beitragstitel "
+"wünschen, kannst du diese in der jeweiligen Sektion überschreiben."
+
+#: inc/customizer.php:563
+msgid "Text Color"
+msgstr "Text Farbe"
+
+#: inc/customizer.php:564
+msgid "You can override the text color in the settings of each section."
+msgstr ""
+"Solltest du in einer Sektion eine andere Farbe für den Text wünschen, kannst "
+"du diese in der jeweiligen Sektion überschreiben."
+
+#: inc/customizer.php:581
+msgid "Contact Information"
+msgstr "Kontakt Information"
+
+#: inc/customizer.php:590
+msgid "Your Email without @-sign"
+msgstr "Deine E-Mail ohne das @-Zeichen"
+
+#: inc/customizer.php:591
+msgid "To avoid spam enter your email without @-sign."
+msgstr ""
+"Um Spam zu vermeiden gebe hier deine E-Mail Adresse ohne das @-Zeichen ein."
+
+#: inc/customizer.php:608
+msgid "Your Email with @-sign"
+msgstr "Deine E-Mail mit @-Zeichen"
+
+#: inc/customizer.php:609
+msgid ""
+"Here you can enter your email with the @-sign because this email will not be "
+"displayed."
+msgstr ""
+"Hier kannst du deine E-Mail Adresse mit dem @-Zeichen eingeben, weil diese E-"
+"Mail nicht angezeigt wird."
+
+#: inc/customizer.php:619
+msgid "Your Phone"
+msgstr "Dein Telefon"
+
+#: inc/customizer.php:635
+msgid "Your Street"
+msgstr "Deine Strasse"
+
+#: inc/customizer.php:651
+msgid "Your City"
+msgstr "Deine Stadt"
+
+#: inc/customizer.php:671
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: inc/customizer.php:672
+msgid ""
+"Go to Google Maps and enter your address. In the menu/share and embed copy "
+"the code inside the iframe-tag. Paste the code in the field below. To make "
+"it responsive change the width inside the iframe to 100%."
+msgstr ""
+"Gehe zu Google Maps und gebe dort deine Adresse ein. Im Menü klicke auf "
+"„Karte teilen oder einbetten“ und gehe dann auf „Karte einbetten“. Kopiere "
+"nun den iframe-Code-Schnipsel und füge es unten in das Feld ein. Damit sich "
+"die Karte der Bildschirmgröße anpasst, setze die Breite (width) innerhalb "
+"des iframes auf 100%."
+
+#: inc/customizer.php:683
+msgid "Display Social Icons?"
+msgstr "Icons der Sozialen Netzwerke zeigen?"
+
+#: inc/customizer.php:684
+msgid "Do you want to display Social Icons in the Contact Section?"
+msgstr ""
+"Willst du in der Kontakt-Sektion die Icons deiner Sozialen Netzwerke zeigen?"
+
+#: inc/customizer.php:694
+msgid "Name for 1. Social Icon"
+msgstr "Name des 1. Sozialen Netzwerkes"
+
+#: inc/customizer.php:695 inc/customizer.php:735 inc/customizer.php:772
+msgid ""
+"Enter the name (uncapitalized) of the Social Network in the field below."
+msgstr "Gebe hier (kleingeschrieben) den Namen des Sozialen Netzwerkes ein."
+
+#: inc/customizer.php:716
+msgid "Link for 1. Social Icon"
+msgstr "Link für das 1. Soziale Netzwerk"
+
+#: inc/customizer.php:734
+msgid "Name for 2. Social Icon"
+msgstr "Name des 2. Sozialen Netzwerkes"
+
+#: inc/customizer.php:753
+msgid "Link for 2. Social Icon"
+msgstr "Link für das 2. Soziale Netzwerk"
+
+#: inc/customizer.php:771
+msgid "Name for 3. Social Icon"
+msgstr "Name des 3. Sozialen Netzwerkes"
+
+#: inc/customizer.php:790
+msgid "Link for 3. Social Icon"
+msgstr "Link für das 3. Soziale Netzwerk"
+
+#: inc/customizer.php:807 inc/customizer.php:816
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: inc/customizer.php:817
+msgid "Enter custom CSS to further customize your site"
+msgstr ""
+"Hier kannst du mit deinem eigenen CSS Miga noch weiter individualisieren"
+
+#: inc/customizer.php:828
+msgid "Menu Settings"
+msgstr "Menü Einstellungen"
+
+#: inc/customizer.php:829
+msgid "Select the menu settings for your website"
+msgstr "Hier kannst du die Menü Einstellungen für deine Website vornehmen."
+
+#: inc/customizer.php:833
+msgid "Menu Style"
+msgstr "Menü Style"
+
+#: inc/customizer.php:842
+msgid "Select the style of your menu"
+msgstr "Wähle ein Menü Style aus"
+
+#: inc/customizer.php:848
+msgid "Static with dropdown"
+msgstr "Statisch mit Dropdown"
+
+#: inc/customizer.php:849
+msgid "Fixed to the top"
+msgstr "Oben fixiert"
+
+#: inc/customizer.php:859
+msgid "Header Settings"
+msgstr "Header Einstellungen"
+
+#: inc/customizer.php:860
+msgid "Select the header settings for your website"
+msgstr "Hier kannst du die Header Einstellungen für deine Website vornehmen"
+
+#: inc/customizer.php:864
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: inc/customizer.php:873
+msgid "Header Layout Settings"
+msgstr "Header Layout Einstellungen"
+
+#: inc/customizer.php:874
+msgid ""
+"Choose the layout for the header on your site. Use \"Custom\" for instance "
+"if you want to display a slider in the header section. Therefore install the "
+"slider plugin of your choise and enter the slider shortcode in the wp-editor "
+"in the dashboard for the current page."
+msgstr ""
+"Hier kannst du das Layout für den Header auswählen. Tipp für "
+"Fortgeschrittene: Du kannst „Custom“ auswählen wenn du z.B. eine Slideshow "
+"in den Header platzieren willst. Dafür installierst du einfach das Slideshow-"
+"Plugin deiner Wahl, erstellt eine Slideshow und fügst den Shortcode in den "
+"WordPress Editor der Homepage im Admin-Bereich."
+
+#: inc/customizer.php:890
+msgid "Display custom header in fullwidth"
+msgstr "Zeige den benutzerdefinierten Header in voller Breite"
+
+#: inc/customizer.php:905
+msgid "Header Content"
+msgstr "Header Inhalt"
+
+#: inc/customizer.php:914
+msgid "Header Background Image"
+msgstr "Header Hintergrundbild"
+
+#: inc/customizer.php:915
+msgid "Upload an image for the header."
+msgstr "Hintergrundbild für den Header hochladen."
+
+#: inc/customizer.php:926
+msgid "Header Background Color"
+msgstr "Header Hintergrundfarbe"
+
+#: inc/customizer.php:927
+msgid "Choose the background color for the header."
+msgstr "Wähle die Hintergrundfarbe für den Header."
+
+#: inc/customizer.php:945 inc/customizer.php:1165
+msgid "Select parallax effect for the background"
+msgstr "Parallex Effekt für den Hintergrund verwenden?"
+
+#: inc/customizer.php:951
+msgid "On"
+msgstr "An"
+
+#: inc/customizer.php:952
+msgid "Off"
+msgstr "Aus"
+
+#: inc/customizer.php:959
+msgid "Header Image"
+msgstr "Header Bild"
+
+#: inc/customizer.php:960
+msgid ""
+"Upload an image or a logo if you want to replace the headline of the header."
+msgstr ""
+"Bild oder Logo für den Header hochladen. Wenn ein Bild hochgeladen wurde, "
+"wird die Header Überschrift nicht angezeigt."
+
+#: inc/customizer.php:970
+msgid "Headline of the header"
+msgstr "Überschrift für den Header"
+
+#: inc/customizer.php:986
+msgid "Subtitle for the header"
+msgstr "Unterüberschrift für den Header"
+
+#: inc/customizer.php:1002
+msgid "Text for the first button"
+msgstr "Text für den ersten Button"
+
+#: inc/customizer.php:1003 inc/customizer.php:1036
+msgid "If empty button will not be displayed."
+msgstr "Wenn kein Text eingegeben wird, wird der Button nicht dargestellt."
+
+#: inc/customizer.php:1019
+msgid "Link for the first button"
+msgstr "Link für den ersten Button"
+
+#: inc/customizer.php:1035
+msgid "Text for the second button"
+msgstr "Text für den zweiten Button"
+
+#: inc/customizer.php:1052
+msgid "Link for the second button"
+msgstr "Link für den zweiten Button"
+
+#: inc/customizer.php:1070
+msgid "Front Page"
+msgstr "Homepage"
+
+#: inc/customizer.php:1071
+msgid "Customize the sections of your home page"
+msgstr "Die Sektionen der Homepage anpassen"
+
+#: inc/customizer.php:1075
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/customizer.php:1119
+msgid "Section Background Color"
+msgstr "Sektion Hintergrundfarbe"
+
+#: inc/customizer.php:1120
+msgid "Choose the background color for this section."
+msgstr "Wähle die Hintergrundfarbe für diese Sektion."
+
+#: inc/customizer.php:1143
+msgid "Section Background Image"
+msgstr "Sektion Hintergrundbild"
+
+#: inc/customizer.php:1144
+msgid ""
+"Upload an image for this section if you want to change the default "
+"background image."
+msgstr ""
+"Hintergrundbild für diese Sektion hochladen. Überdeckt das Hintergrundbild "
+"der Website, falls eins hochgeladen wurde."
+
+#: inc/customizer.php:1176
+msgid "Display Sections Title"
+msgstr "Zeige die Sektions Überschrift"
+
+#: inc/customizer.php:1177
+msgid "Select if you want to display the sections title."
+msgstr "Auswählen wenn die Überschrift der Sektion angezeigt werden soll."
+
+#: inc/customizer.php:1192
+msgid "Choose the title color for this section."
+msgstr "Wähle die Farbe für die Überschrift dieser Sektion."
+
+#: inc/customizer.php:1215
+msgid "Choose the post title color for this section."
+msgstr "Wähle die Farbe für den Beitragstitel dieser Sektion."
+
+#: inc/customizer.php:1237
+msgid "Section Text Color"
+msgstr "Text Farbe der Sektion"
+
+#: inc/customizer.php:1238
+msgid "Choose the text color for this section."
+msgstr "Wähle die Farbei für den Text dieser Sektion."
+
+#: inc/customizer.php:1257
+msgid "Select Animation for the title"
+msgstr "Wähle eine Animation für die Überschrift"
+
+#: inc/customizer.php:1258
+msgid "Select the animation for the title. Default is without animation."
+msgstr ""
+"Hier kannst du eine Animation für die Überschrift auswählen. Default ist "
+"ohne Animation."
+
+#: inc/customizer.php:1284
+msgid "Select Content Type"
+msgstr "Wähle einen Inhaltstyp"
+
+#: inc/customizer.php:1285
+msgid "Select the content you want to display in this section"
+msgstr "Wähle aus WELCHEN Inhaltstyp du in dieser Sektion anzeigen möchtest."
+
+#: inc/customizer.php:1308
+msgid "Enter the text for the newsletter"
+msgstr "Gebe den Text für den Newsletter ein"
+
+#: inc/customizer.php:1333
+msgid "Select Posts Category"
+msgstr "Wähle eine Beitragskategorie"
+
+#: inc/customizer.php:1334
+msgid "Select the post category you want to display in this section"
+msgstr ""
+"Wähle die Beitragskategorie, die du in dieser Sektion anzeigen möchtest"
+
+#: inc/customizer.php:1356
+msgid "Number of posts"
+msgstr "Anzahl der Beiträge"
+
+#: inc/customizer.php:1357
+msgid "Select the number of posts you want to display in this section"
+msgstr "Wähle aus wieviele Beiträge du in dieser Sektion anzeigen möchtest."
+
+#: inc/customizer.php:1390
+msgid "Select Display Option"
+msgstr "Wähle eine Display Option"
+
+#: inc/customizer.php:1391
+msgid "Select the display option for this sections content"
+msgstr ""
+"Wähle die Art und Weise WIE du den Inhalt in dieser Sektion anzeigen "
+"möchtest."
+
+#: inc/customizer.php:1443
+msgid "Cards Background Color"
+msgstr "Hintergrundfarbe der Cards"
+
+#: inc/customizer.php:1444
+msgid "Choose the background color for the cards"
+msgstr ""
+"Hier kannst du die Hintergrundfarbe für die Cards und andere Display "
+"Optionen auswählen."
+
+#: inc/customizer.php:1485
+msgid "Display excerpt or the whole content of the posts"
+msgstr ""
+"Wähle aus ob du den ganzen Inhalt anzeigen möchtest oder nur einen Ausschnitt"
+
+#: inc/customizer.php:1486
+msgid ""
+"Default is excerpt. Select the content option only if the content of your "
+"posts is not too long. Button \"read more\" will not be display if content "
+"option was selected."
+msgstr ""
+"Wähle den ganzen Inhalt nur wenn deine Beiträge nicht zu lang sind. Der "
+"Button „Weiterlesen“ erscheint nicht wenn ganzer Inhalt ausgewählt wurde."
+
+#: inc/customizer.php:1519
+msgid "Select Number of Columns"
+msgstr "Wähle die Anzahl der Spalten"
+
+#: inc/customizer.php:1520
+msgid "Select the number of columns for this section"
+msgstr ""
+"In wie vielen Spalten möchtest du deine Beiträge in dieser Sektion "
+"darstellen?"
+
+#: inc/customizer.php:1573
+msgid "Select a filter for the sections images"
+msgstr "Filter für die Bilder in der Sektion auswählen"
+
+#: inc/customizer.php:1574
+msgid "Default is without filter."
+msgstr "Default ist ohne Filter"
+
+#: inc/customizer.php:1614
+msgid "Blog Page"
+msgstr "Blog Seite"
+
+#: inc/customizer.php:1615
+msgid "Customize your blog page"
+msgstr "Blog Seite anpassen"
+
+#: inc/customizer.php:1623 inc/customizer.php:1628
+msgid "Footer Settings"
+msgstr "Footer Einstellungen"
+
+#: inc/customizer.php:1624
+msgid "Customize your footer section"
+msgstr "Footer Sektion anpassen"
+
+#: inc/customizer.php:1638
+msgid "Footer Background Image"
+msgstr "Footer Hintergrundbild"
+
+#: inc/customizer.php:1639
+msgid "Upload an image for the footer."
+msgstr "Hier kannst du ein Hintergrundbild für den Footer hochladen."
+
+#: inc/customizer.php:1650
+msgid "Footer Background Color"
+msgstr "Footer Hintergrundfarbe"
+
+#: inc/customizer.php:1651
+msgid "Choose the background color for the footer."
+msgstr "Wähle die Hintergrundfarbe für den Footer"
+
+#: inc/customizer.php:1674
+msgid "Display Social Icons in the Footer?"
+msgstr ""
+"Willst du die Icons der Sozialen Netzwerke im Footer anzeigen? Trage zuerst "
+"die Links zu deinen Profilen in Bereich „Kontakt Information“ ein."
+
+#: inc/customizer.php:1675
+msgid "Select if you want to display your social icons in the footer area."
+msgstr ""
+"Auswählen wenn du die Icons deiner Sozialen Netzwerke im Footer anzeigen "
+"möchtest."
+
+#: inc/kirki/tests/test-kirki.php:55 inc/kirki/tests/test-kirki.php:64
+#: inc/kirki/tests/test-kirki.php:73 inc/kirki/tests/test-kirki.php:131
+msgid "My custom control"
+msgstr ""
+
+#: inc/kirki/tests/test-kirki.php:142
+msgid "My custom control 2"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+# @ _s
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "% Kommetare"
+
+# @ _s
+#: inc/template-tags.php:71 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr "Bearbeite %s"
+
+#: index.php:129
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: index.php:130
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: index.php:131
+msgid "Page"
+msgstr "Seite"
+
+# @ _s
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+# @ _s
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit deinen ersten Beitrag zu schreiben? <a href=\"%1$s\">Starte hier</a>."
+
+# @ _s
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr "Seiten:"
